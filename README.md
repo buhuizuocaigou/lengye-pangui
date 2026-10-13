@@ -6,10 +6,16 @@
 
 ## 音频下载
 
+**[一次下载两个 MP3（ZIP 压缩包）](https://github.com/buhuizuocaigou/lengye-pangui/releases/download/audio-v1/lengye-pangui-mp3.zip)**
+
+点击下方链接可分别下载音频，也可打开 [音频发布页](https://github.com/buhuizuocaigou/lengye-pangui/releases/tag/audio-v1)，在 **Assets（资源）** 中选择文件。下载附件使用英文文件名，对应曲目均为《冷夜盼归》。
+
 | 版本 | 时长 | 格式 | 下载 |
 | --- | --- | --- | --- |
-| V1.0 | 4 分 58 秒 | MP3 / 48 kHz / 立体声 | [冷夜盼归_V1.0.mp3](audio/冷夜盼归_V1.0.mp3?raw=true) |
-| V2.0 | 5 分 05 秒 | MP3 / 48 kHz / 立体声 | [冷夜盼归_V2.0.mp3](audio/冷夜盼归_V2.0.mp3?raw=true) |
+| V1.0 | 4 分 58 秒 | MP3 / 48 kHz / 立体声 | [下载 V1.0 MP3](https://github.com/buhuizuocaigou/lengye-pangui/releases/download/audio-v1/lengye-pangui-v1.0.mp3) |
+| V2.0 | 5 分 05 秒 | MP3 / 48 kHz / 立体声 | [下载 V2.0 MP3](https://github.com/buhuizuocaigou/lengye-pangui/releases/download/audio-v1/lengye-pangui-v2.0.mp3) |
+
+ZIP 压缩包内包含两个原始中文文件名的 MP3。音频内容与仓库中的版本一致。
 
 ## AI 工具信息
 
